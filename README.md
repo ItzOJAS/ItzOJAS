@@ -1,5 +1,43 @@
 # 💫 About Me:
-Hey, I'm Ojas — a passionate developer navigating high school while building the future one commit at a time. Tech, AI, computer vision — I'm curious about all of it.<br>⌨️ Dev<br>🤖 AI<br>📷 CV<br>🚀 Builder<br>Ojas<br>student, builder, dreamer.<br>Hey — I'm a passionate software developer currently navigating high school while building the future one project at a time. Unibix.space is my digital playground where I share my journey, experiments, and discoveries in tech, AI, computer vision, and gaming.<br><br>Ambitious? Absolutely. Ready to learn? Always.<br><br>Python<br>JavaScript<br>OpenCV<br>AI & ML<br>Web Dev<br>Gaming<br><br>Founder & Builder<br>Unibix.space · 2024 — Now<br>Content Creator<br>YouTube · @ojas-m3p<br>CV Explorer<br>OpenCV · Python · Motion Projects<br>Student<br>High School · Tech & Beyond<br>
+Hey, I'm Ojas. 👋
+Student. Builder. Dreamer.
+
+I'm a passionate software developer navigating high school while building the future—one commit at a time. Unibix.space is my digital playground where I document my journey, experiments, and discoveries in tech, AI, computer vision, and gaming.
+
+Ambitious? Absolutely. Ready to learn? Always.
+
+Option 2: The "Short & Punchy" (GitHub, X/Twitter, or LinkedIn Bio)
+Best for social profiles where space is limited and you want to make an immediate impact.
+
+Ojas | ⌨️ Dev • 🤖 AI • 📷 CV • 🚀 Builder
+High school student building the future one project at a time. Founder of Unibix.space & creating content at @ojas-m3p. Always curious, always building.
+Stack: Python | JS | OpenCV | AI/ML | Web Dev
+
+Option 3: The "Expanded About Me" (Detailed & Structured)
+Ideal for an "About" page where you want to highlight your timeline and specific skills clearly.
+
+Hey — I'm Ojas!
+I'm a software developer, content creator, and high school student with a serious curiosity for the future of tech. Whether I'm training a new model, tracking motion with OpenCV, or building out the web, I love turning complex ideas into reality.
+
+Welcome to my digital playground, Unibix.space, where I share my projects, tech deep-dives, and gaming adventures.
+
+🛠️ My Stack & Interests:
+
+Languages & Web: Python, JavaScript, Full-Stack Web Dev
+
+Specialties: AI & Machine Learning, Computer Vision (OpenCV)
+
+Hobbies: Gaming & Content Creation
+
+🚀 What I'm Up To:
+
+Founder & Builder: Unibix.space (2024 — Present)
+
+Content Creator: YouTube (@ojas-m3p)
+
+CV Explorer: Tinkering with Python & Motion Projects
+
+Student: Balancing high school, tech, and beyond.<br>
 
 
 ## 🌐 Socials:
